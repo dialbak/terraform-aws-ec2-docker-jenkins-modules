@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.terraformrc
+.terraformrc.json
+*.tfvars
+terraform.rc
+.DS_Store
+.terraform.d/plugins/
+*.tfplan
+**/.terraform/*
+crash.log
