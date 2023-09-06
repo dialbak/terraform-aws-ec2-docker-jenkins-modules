@@ -18,7 +18,7 @@ module "ec2-docker-nginx-modules" {
 
 ###### entry-script.sh
 
-mets le lien du repo git
+https://gitlab.com/bakary.diallo.simplon/portfolios/-/blob/main/2-jenkins-Nexus/1-install-jenkins-docker-container/terraform/entry-script.sh
 
 ###### Check docker is running
 
